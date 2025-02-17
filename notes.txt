@@ -1,0 +1,24 @@
+Topics to be covered:
+
+1. Semantics
+In Programming there are 2 things
+
+- Syntax: Rules given by a specific tech.. error/ cannot achieve the functionality.
+
+- Semantics: Additional information .... no error/ can achieve the functionality.
+* Developers
+* User experience will be improved.
+
+- semantics in HTML => HTML5
+* Semantic tags: strong and em 
+* div: creates a division => nav, header, main, footer, aside, section
+
+#Uses in HTml:
+1. Developers
+2. SEO
+3. Accessibilty
+
+JAWS - readability purposes
+
+2. Optimization
+3. Security

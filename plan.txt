@@ -1,0 +1,66 @@
+1. Home page
+
+-Navbar
+    - Home
+    - Contact 
+    - Resume
+
+-Intro section
+    - Heading
+    - Image 
+    - About Me
+  
+-Experience
+    - List all my Experience
+
+-Skills
+    - List all my Skills
+
+-Achievements
+    - List all my achievements
+
+-footer
+    - Home
+    - Contact
+    - Resume
+    - Social Links
+
+2. Contact Us page
+
+-Navbar
+    - Home
+    - Contact
+    - Resume
+
+-Contact Me form
+    - First Name
+    - Last Name 
+    - Email
+    - Phone
+    - Submit
+
+-Social Links 
+    - LinkedIn
+    - YouTube
+
+-Embedd Map
+   - Location of Vinay Nagar , Badarpur, Delhi
+
+-footer
+   - Home
+   - Contact
+   - Resume
+   - Social Links
+
+
+Deployment: Making our app/web page public
+
+1. Development : The code is being written and in dev's local
+2. Staging State : The code in on service : Github
+3. Testing  : Test Server
+4. Production State : Prod server
+
+* Deployment Services:
+1. Github [ Public repo]
+2. Netlify
+3. Vercel
