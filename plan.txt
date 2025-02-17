@@ -56,11 +56,13 @@
 Deployment: Making our app/web page public
 
 1. Development : The code is being written and in dev's local
-2. Staging State : The code in on service : Github
+2. Staging State : The code is on service : Github
 3. Testing  : Test Server
 4. Production State : Prod server
 
 * Deployment Services:
 1. Github [ Public repo]
+   - settings > pages > select branch > save
+   - actions > see the workflow running : means deploying
 2. Netlify
 3. Vercel
